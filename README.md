@@ -1,1 +1,1 @@
-# java-roulette-game
+# casino-roulette-game
